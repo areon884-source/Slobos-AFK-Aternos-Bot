@@ -10,7 +10,7 @@
     "port": 41642,
     "version": 1.21
   ,
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
